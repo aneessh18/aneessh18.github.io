@@ -4,6 +4,7 @@ title:  "Therapeutic aspect of Note taking"
 date:   2022-01-25 1:01:00 +0530
 categories: productivity note-taking 
 author: Aneesh
+permalink: note-taking-therapy
 ---
 
 I decided that from now on I will stick to the process of compulsive note-taking. Since my college days, I have felt that the lack of note-taking has bitten my chances of executing an impactful project and has also been holding me back from having an anxious-free life. For the past few days, I have applied this always-novel strategy to meeting especially and it really works like a charm.  First, it channels your focus on the thing that is happening in the present moment which in turn leads to faster lookups in the future.

@@ -4,6 +4,7 @@ title:  "Delegating Communication to Share Culture and Experiences"
 date:   2022-01-25 20:10:00 +0530
 categories: communication  
 author: Aneesh
+permalink: delegating-communication
 ---
 
 More often than not, you've hit the dead-end of trying to explain a system/convey-your-opinions to a person who has neither shared culture nor experience w.r.t you. I didn't notice this strange phenomenon that was playing out in my career ventures. You see all this while, up until my under-graduation, I was always out with somebody with whom I shared something in the cultural aspect. But now, I am left alone in the Sub-sahara African desert with nothing but shared technical vocabulary(which itself manifests in different forms).
