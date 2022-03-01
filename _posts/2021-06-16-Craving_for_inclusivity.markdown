@@ -4,6 +4,7 @@ title:  "Craving for inclusivity"
 date:   2021-06-16 21:28:04 +0530
 categories: learning
 author: Aneesh
+permalink: craving-for-inclusivity
 ---
 For the past year, many of my thoughts and actions have been majorly towards one goal. That is for inclusion. Never have I felt this much urge to feel included. I go to a specific subreddit to find tribes that radiate my vibes. Even in the programming languages or frameworks, I yearn to be are the result of their communities. I am even learning a new language just to understand the system programming streams of youtuber. 
 
