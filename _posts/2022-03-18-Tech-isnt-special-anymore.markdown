@@ -1,0 +1,10 @@
+---
+layout: post 
+title: Tech isn't special anymore
+date: 2022-03-18 3:00 +530
+permalink: tech-isn't-special-anymore
+---
+
+Tech has been the poster child of this culture where the Davids win against the goliaths. Apple, Google, Facebook, Netflix, Amazon earned most of their wealth by displacing the incumbents in their respective fields. This all happened in the last 2 decades. And like every party this had to end. Google has a pipeline right from the demand to the supply. There are no middlemen and, other companies like Apple and Netflix have the same strategy, though Netflix moat is hard to defend though. The powers at the top have consolidated the power and it is just to beat at their own game. As a result of this, you can't have stories titled "Burgeoning Facebook trumps Google" anymore. The only stories that get played on from now will be something like "X company got acquired by Big Tech". Chip companies have hit Moore's wall and the data harvesting party is also about to end. 
+
+This essentially also means that the VC ecosystem that thrived in Silicon Valley is about to end. It doesn't mean that there will be no VC, the number of VC firms who make a bang on the buck will get significantly get reduced as there is no next Google to fund Sequoia. Even Stripe, the darling of the startup world, is merely at 100B even after 12 years whereas Facebook's valuation rocketed to 200B in 8 yrs. The era of growth on steroids is over. Instead what you have is unbundling of these big tech companies which will result in a specialized market. An example of this would be Cloudfare offering R2 service to Indie developers. All the enterprises have been onboarded by Azure, AWS and Google Cloud sales teams. All the Big tech have entrenched themselves in the global supply chain, right from the start to the end. Unless and until **their** supply chains get disrupted, it is highly unlikely that somebody's going to displace. For the foreseen future, they are the undisputed kings. 
