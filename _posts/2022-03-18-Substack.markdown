@@ -1,8 +1,7 @@
 ---
 title: "Why Substack will win over everybody"
-layout: post 
-date: 2022-03-18 12:00 +530 
-permalink: substack-will-win
+layout: post  
+permalink: substack
 ---
 
 Blogs have been the avenues that amateurs flock to when they crave lighter opinions. There are no serious incentives for bloggers to write a 3000-word post that is deeply researched. Even though the masses don't yearn for these deep posts, humanity as a whole needs them. These are the posts that document human civilization's behaviour as a whole or write well balanced opinionated posts. And to write these posts is no mean feat. You can only find these breeds in New York Times, New Yorker or Washington Post and they attracted all these talents by providing a platform(already established audience) and lucrative career options. But the underlying thing of these entities is that they had a distribution moat. Not anymore. 
