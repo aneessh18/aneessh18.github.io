@@ -2,6 +2,7 @@
 layout: post 
 date: 2022-04-02 00:30 +530
 title: "Software Premise"
+permalink: software-premise
 ---
 
 There is a lot of dispersion between the skills one needs to be good at interviewing and the ones that are required to get the damn job done. The former requires math problem-solving abilities which essentially boils down to playing the game and gaming the system. It's that classic human construct to which everybody adheres to establish a standard. You can observe this pattern whenever the demand side of things gets exploded. An objective filter gets developed and is used as a metric to screen the best. In the software industry, most of the big tech, where the pool of applicants is high, resorted to interviewing the applications using algorithmic tests. It makes sense for them to do this. But the repercussions may not be immediate. 
