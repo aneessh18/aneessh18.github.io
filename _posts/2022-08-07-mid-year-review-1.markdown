@@ -18,6 +18,6 @@ permalink: mid-year-review-1
 - **Was not a good code-reviewer at the beginning**. Was thinking too much about design patterns and other idealistic shit. Instead, could have focussed on common-sense and instincts. Any code should meet basic readability and making-sense aspects.  
 - **Should have googled more about any unknowns I was encountering on day-to-day basis**. Basic googling infuses much more context than anything will.  
 - **Didn't respect the human aspects that arise from code**. I didn't care much about the backward compatibility and constraints of various surrounding systems. Used to propose audacious things which have 0 percent of materialization. One word, was not realistic enough. 
-- **Didn't experiment enough and didn't invest enough time in mastering the fundamental tech**.  Having code samples which can help you to play with things and mastering CLI tools can massively come to your aide when the situation arises. Gotta work on this more. Hands on experience beats everything.   
-- **Didn't pay much heed to my curiosities**. Again big mistake. Whether it is making small POCs and understand how they work or reading some good'ol research papers, you have to follow your curiosities. 
+- **Didn't experiment enough and didn't invest enough time in mastering the fundamental tech**.  Having code samples which can help you to play with things and mastering CLI tools can massively come to your aide when the situation arises. Gotta work on this more. **Hands on experience beats everything**.   
+- **Didn't pay much heed to my curiosities**. Again a big mistake. Whether it is making small POCs and understand how they work or reading some good'ol research papers, you have to follow your curiosities. 
 
