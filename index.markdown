@@ -5,4 +5,4 @@ Hi 👋, this is Aneesh. I am a programmer who dabbles in various aspects of com
 
 Currently,  I am learning about functional programming, primarily about LISP dialects. 
 
-In my leisure time, I read books that spawn literature and science fiction. As of now, Haruki Murakami is my favourite author.  I am also a Podcast Junkie 🙂.
+In my leisure time, I read books that spawn literature and science fiction. As of now, ~~Haruki Murakami~~ Brandon Sanderson is my favourite author.  I am also a Podcast Junkie 🙂.
