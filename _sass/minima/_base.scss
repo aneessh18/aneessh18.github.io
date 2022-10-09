@@ -34,6 +34,7 @@ body {
   overflow-wrap: break-word;
   line-height: 1.7;
   word-spacing: 1.5px;
+  font-weight: 700;
 }
 
 p {
@@ -108,7 +109,11 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  // font-weight: $base-font-weight;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 68px;
+  font-family: 'Playfair Display', serif;
 }
 
 
