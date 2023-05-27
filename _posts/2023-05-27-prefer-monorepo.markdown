@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "Prefer Monorepo"
 permalink: prefer-monorepo
 --- 
