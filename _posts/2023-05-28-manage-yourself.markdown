@@ -8,4 +8,4 @@ An important realisation that I learned the hard way is that don't ever expect a
 
 I used to hold my 1-1s with my manager as sacred. But they were as worthless as empty shells. Devoid of any substance and meaningful interaction. Turns out my fellow colleagues also had similar stories to tell. This eventually led me to believe that aspiring to work under a great manager to catapult your professional career is a ludicrous goal as it is akin to hoping for a generational politician to uplift the human conditions in a country. 
 
-[Here](https://signalvnoise.com/posts/1430-hire-managers-of-one) is a great blog explaining the concept of "Managers of One" 
+[Here](https://signalvnoise.com/posts/1430-hire-managers-of-one) is a great blog post explaining the concept of "Managers of One" 
